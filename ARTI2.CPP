@@ -1331,12 +1331,3 @@ void click_coin1()
 
 	} while(win==0);
 }
-
-
-
-
-
-
-
-
-
